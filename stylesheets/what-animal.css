@@ -1,5 +1,10 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css");
+
+body {
+  background: dark-gray;
+}
   
 #content {
-    margin: 50px; 
+  background:white;
+  margin: 50px; 
 }
