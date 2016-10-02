@@ -3,6 +3,10 @@
 body {
   background-color: gray;
 }
+
+ul {
+  padding: 10px;
+}
   
 #content {
   background-color: white;
